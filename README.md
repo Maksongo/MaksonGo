@@ -19,11 +19,10 @@
 	<img height="84px" width="84px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png"/>
   <img align="center" width="10px" height="68px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
 	<img height="84px" width="84px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
-  
 </div>
 
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Open for any forms of collaboration and communication. </p>
 
 <p align="center">
-<a href='https://github.com/MaksonGo/MaksonGo'><img height="360px" class="logo_main" src="https://blogs.sap.com/wp-content/uploads/2022/06/1325-code-fork-outline.gif" ></a>
+<a href='https://github.com/MaksonGo/MaksonGo'><img height="360px" class="logo_main" src="https://www.innovination.com/wp-content/uploads/2021/06/develpoment.gif" ></a>
 </p>
